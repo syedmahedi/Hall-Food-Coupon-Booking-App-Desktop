@@ -24,6 +24,11 @@
 ![Demo](test/Screenshot%202022-07-26%20164254.png)
 </br>
 </br>
+### `Booking confirmation Email to customers:`
 ![Demo](test/Screenshot_20220726-163153.png)
+</br>
+</br>
+### `Those who are booked their coupon:`
+![Demo](test/Screenshot%202022-09-14%20112446.png)
 
 
